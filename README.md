@@ -2,7 +2,7 @@
 
 <h2>♦ Help Desk Technician projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/DanielleLail/ActiveDirectoryHomeLab/blob/main/README.md)
+- [Active Directory Home Lab](https://github.com/DanielleLail/ActiveDirectoryHomeLab)
 
 <h2>♦ Certifications:</h2>   
 
